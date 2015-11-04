@@ -1,0 +1,16 @@
+* {
+	box-sizing: border-box;
+}
+
+.container {
+	border-right: 1px solid;
+	border-bottom: 1px solid;
+	margin: 200px auto;
+	overflow: hidden;
+}
+
+.container div {
+	border-left: 1px solid;
+	border-top: 1px solid;
+	float: left;
+}
