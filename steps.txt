@@ -1,0 +1,4 @@
+//First without difficulty levels
+
+1. Place 10 bombs on random grid squares.
+2. 

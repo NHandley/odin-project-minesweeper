@@ -42,7 +42,7 @@
 
 	var clickCell = function() {
 		$('.container').on("click", "div", function(event) {
-			
+			console.log($(this));
 		});
 
 	}
